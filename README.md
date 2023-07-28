@@ -1,7 +1,7 @@
 # Playground
 
 ## Instructions
-Go to the Ghandi Statue in downtown Bellevue.  Press the play button.  Run back and forth between the Ghandi Statue and Double Inquiry art as many times as you can in 5 minutes.  Then try to beat your high score.
+Go to the Ghandi Statue in downtown Bellevue.  Press the play button.  Run back and forth between the Ghandi Statue and Double Inquiry art as many times as you can in 5 minutes.  Then try to beat your high score.  Make sure to point your phone's camera at the Ghandi Statue or Double Inquiry art for your score to increment.
 
 ## Challenges
 I do not have a test device with cell service, so I have not been able to test the code or create a video of the gameplay.
