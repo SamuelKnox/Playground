@@ -82,7 +82,7 @@ namespace Playground
         /// </summary>
         public void StartRound()
         {
-            _timeRemaining = TimeSpan.FromMinutes(0.1);
+            _timeRemaining = TimeSpan.FromMinutes(_roundMinutes);
             var arPersistentAnchorPayload = new ARPersistentAnchorPayload(_payloads[_targetLocationIndex]);
             _arPersistentAnchorManager.TryTrackAnchor(arPersistentAnchorPayload, out _targetARPersistentAnchor);
             _gameplayPanel.SetActive(true);

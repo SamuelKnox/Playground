@@ -1568,7 +1568,7 @@ MonoBehaviour:
   _gameplayPanel: {fileID: 2062990706}
   _timeRemainingText: {fileID: 1960871346}
   _scoreText: {fileID: 413907951}
-  _roundMinutes: 1
+  _roundMinutes: 5
 --- !u!114 &1560704289
 MonoBehaviour:
   m_ObjectHideFlags: 0
