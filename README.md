@@ -1,1 +1,19 @@
 # Playground
+
+## Challenges
+I do not have a test device with cell service, so I have not been able to test the code or create a video of the gameplay.
+
+## Functionality
+In theory, it should all work.  But it is untested.
+
+## Code Quality
+Code quality should be fine.  It was a first pass, so there is room for improvement.  But for such a small project, it is sufficient.
+
+## Creativity
+0 points :)
+
+## User Experience
+Aside from a play button, there is no tutorial or guidance on how to play the game.  The user experience is pretty terrible.
+
+## Learning and Adaptation
+There were no issues incorporating Lightship ARDK.
